@@ -1,5 +1,14 @@
 let a = 10;
 console.log(a);
-console.log(process.platform);
-console.log(process.arch);
-console.log();
+
+
+for (let a = 0; a < 100000; a++) {
+    console.log(a);
+    print();
+}
+
+function print() {
+    console.log("Hello");
+}
+
+
