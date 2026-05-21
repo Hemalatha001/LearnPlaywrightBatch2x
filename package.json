@@ -1,0 +1,23 @@
+{
+  "name": "learnplaywrightbatch2x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemalatha001/LearnPlaywrightBatch2x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hemalatha001/LearnPlaywrightBatch2x/issues"
+  },
+  "homepage": "https://github.com/Hemalatha001/LearnPlaywrightBatch2x#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.8.0"
+  }
+}
